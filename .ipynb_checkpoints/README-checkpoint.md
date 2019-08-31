@@ -61,7 +61,3 @@ An attribution usually includes the title, author, publisher, and ISBN.
 For example:
 
 > A Whirlwind Tour of Python by Jake VanderPlas (O’Reilly). Copyright 2016 O’Reilly Media, Inc., 978-1-491-96465-1.
-
->>>Asi se hace
-
-<video src=""
